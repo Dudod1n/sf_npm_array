@@ -1,0 +1,19 @@
+{
+  "name": "sf_npm_array",
+  "version": "1.0.0",
+  "description": "A test package for completing the task.",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dudod1n/sf_npm_array.git"
+  },
+  "author": "Nikita Adodin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dudod1n/sf_npm_array/issues"
+  },
+  "homepage": "https://github.com/Dudod1n/sf_npm_array#readme"
+}
